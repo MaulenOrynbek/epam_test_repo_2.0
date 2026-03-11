@@ -3,6 +3,4 @@ song lines
 song lines
 song lines
 
-
-now we added new lines of the song in the master
-not in the new branch to see how would they be different 
+ 
